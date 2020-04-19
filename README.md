@@ -1,9 +1,9 @@
 # kingbomber
 Bomber tool for India
 ## installation
-``` git clone https://github.com/cyberchathan/kingbomber
-cd kingbomber
+``` git clone 
+cd kingbomberhttps://github.com/cyberchathan/bombe-for-whatsapp.git
 chmod +x *
-python kingbomber.py
+python kingbombe-for-whatsapp.py
 
 ```
